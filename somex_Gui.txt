@@ -2133,7 +2133,7 @@ end
 
 local win = SomeLib:Window("", _G.Color, _G.Toggle)
 
-local serv = win:Server(" HUB","")
+local serv = win:Server("KY HUB","")
 
 local AutoFarm = serv:Channel("A", "http://www.roblox.com/asset/?id=7040391851")
 
